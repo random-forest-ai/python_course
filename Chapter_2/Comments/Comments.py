@@ -5,6 +5,6 @@ if __name__ == '__main__':
     This is a line printing Hello World
     This is a second line comment
     '''
-    print("Hello World")
+    print("Hello World") # This is a comment
 
 
